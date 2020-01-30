@@ -1,0 +1,36 @@
+body {
+  background-color: #ffd54f;
+  text-align: center;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 8%;
+}
+form label {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 17px;
+}
+form input {
+  padding: 10px;
+  width: 190px;
+  height: 20px;
+  border-radius: 7px;
+  outline: none;
+  border: 1px solid #ffd54f;
+}
+button {
+  display: block;
+  width: 120px;
+  height: 40px;
+  background: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  margin-left: 49%;
+  margin-top: 30px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  background-color: rgb(19, 18, 17);
+  color: #fff;
+}
